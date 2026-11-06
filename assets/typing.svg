@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 64" width="560" height="64"
+     role="img" aria-label="BSIT Student and Full-Stack Developer">
+  <style>
+    .txt   { font-family: "Segoe UI", Inter, system-ui, sans-serif;
+             font-size: 26px; font-weight: 600; fill: #334155; }
+    .caret { fill: #10b981; }
+  </style>
+
+  <!-- animated reveal: type -> hold -> erase -> repeat -->
+  <clipPath id="reveal">
+    <rect x="8" y="10" height="44" width="0">
+      <animate attributeName="width" dur="7s" repeatCount="indefinite"
+               keyTimes="0; 0.42; 0.80; 0.92; 1"
+               values="0; 452; 452; 0; 0"/>
+    </rect>
+  </clipPath>
+
+  <text class="txt" x="8" y="42" clip-path="url(#reveal)">BSIT Student &amp; Full-Stack Developer</text>
+
+  <!-- caret follows the text and blinks -->
+  <rect class="caret" x="8" y="16" width="3" height="30" rx="1.5">
+    <animate attributeName="x" dur="7s" repeatCount="indefinite"
+             keyTimes="0; 0.42; 0.80; 0.92; 1"
+             values="8; 460; 460; 8; 8"/>
+    <animate attributeName="opacity" dur="1s" repeatCount="indefinite"
+             keyTimes="0; 0.5; 0.51; 1" values="1; 1; 0; 0"/>
+  </rect>
+</svg>
