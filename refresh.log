@@ -1,9 +1,0 @@
-﻿gh : 
-At line:2 char:1
-+ gh auth refresh -h github.com -s workflow *>&1 | Out-File refresh.log ...
-+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
-    + FullyQualifiedErrorId : NativeCommandError
- 
-! One-time code (1D33-38E1) copied to clipboard
-Open this URL to continue in your web browser: https://github.com/login/device
