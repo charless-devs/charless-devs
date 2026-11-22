@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: 🐍 Generate the contribution graph
-        uses: Platane/snk/github-action@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
