@@ -14,12 +14,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **full-stack web developer and IT student based in Iloilo, Philippines**, focused on building **interactive, 3D, and robust digital experiences** — from pixel-perfect front-ends to reliable server-side systems.
+I'm a **full-stack web developer and IT student**, focused on building **interactive, 3D, and robust digital experiences** — from pixel-perfect front-ends to reliable server-side systems.
 
 - 🎓 BS Information Technology student — turning classroom concepts into real, working products
-- 🌐 Full-stack: modern **React/Next.js** front-ends backed by **Node.js, Flask, and PHP** services
+- 🌐 Full-stack: modern **React** front-ends backed by **Node.js, Flask, and PHP** services
 - 🕹️ Passionate about **3D and interactive web experiences** that feel alive in the browser
-- 📍 Based in **Iloilo City, Philippines** · 🌱 Always learning, always building
+- 🌱 Always learning, always building
 
 ---
 
@@ -30,7 +30,6 @@ I'm a **full-stack web developer and IT student based in Iloilo, Philippines**, 
     <td align="center"><strong>🎨 Frontend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
     </td>
