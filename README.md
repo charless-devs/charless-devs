@@ -1,105 +1,107 @@
 <div align="center">
 
-<img src="banner.gif" width="100%" alt="CHARLES — BSIT Student & Full-Stack Developer banner"/>
+# Hi, I'm Charles 👋
 
-# 👋 Hi, I'm Charles
+### Charles Restan G. Lambuson — Full-Stack Web Developer & IT Student
 
-### BSIT Student & Full-Stack Developer
-
-<img src="https://raw.githubusercontent.com/charless-devs/charless-devs/main/assets/typing.svg" width="470" alt="BSIT Student & Full-Stack Developer"/>
-
-**Turning clean code into apps people actually enjoy using 🚀**
-
-![Followers](https://img.shields.io/github/followers/charless-devs?style=flat-square&label=Followers&color=10b981)
-![Profile views](https://komarev.com/ghpvc/?username=charless-devs&style=flat-square&color=10b981)
-![Last commit](https://img.shields.io/github/last-commit/charless-devs?style=flat-square&color=0f172a)
+![GitHub followers](https://img.shields.io/github/followers/charless-devs?style=flat-square&label=Followers&color=0ea5e9)
+![Profile views](https://komarev.com/ghpvc/?username=charless-devs&style=flat-square&color=0ea5e9)
+![Last commit](https://img.shields.io/github/last-commit/charless-devs?style=flat-square&color=1e293b)
 
 </div>
 
 ---
 
-## 🎓 About Me
+## 🧑‍💻 About Me
 
-> **Objective:** Grow into a full-stack developer by turning classroom concepts into real, working products.
+I'm a **full-stack web developer and IT student based in Iloilo, Philippines**, focused on building **interactive, 3D, and robust digital experiences** — from pixel-perfect front-ends to reliable server-side systems.
 
-- 🎓 Currently taking **BS Information Technology** — major focus on software & web development
-- 💻 **Full-stack in training:** polished front-ends (React, Figma) backed by solid systems (PHP, MySQL)
-- 🤖 Hardware tinkerer — blinking LEDs, sensors, and **Arduino** weekend projects
-- 🌱 Currently leveling up in **React patterns**, **Python automation**, and clean Git workflows
-- ✨ Pair-programming with **Claude AI** & **ChatGPT** (they review my PRs at 2 AM)
-- ✨ Fun fact: `import antigravity` — every bug becomes an adventure
+- 🎓 BS Information Technology student — turning classroom concepts into real, working products
+- 🌐 Full-stack: modern **React/Next.js** front-ends backed by **Node.js, Flask, and PHP** services
+- 🕹️ Passionate about **3D and interactive web experiences** that feel alive in the browser
+- 📍 Based in **Iloilo City, Philippines** · 🌱 Always learning, always building
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-
-**🎨 Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-Learning_🌱-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**⚙️ Backend & Data**
-
-![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**🤖 Design & Hardware**
-
-![Figma](https://img.shields.io/badge/Figma-Intermediate-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-Tinkering-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-**🧰 Tools & AI**
-
-![Git](https://img.shields.io/badge/Git-Comfortable-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Daily_Driver-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-Coding_Buddy-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-Coding_Buddy-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🌌 QuizNova — Interactive Quiz App
-
-| | |
-|:--|:--|
-| **Role** | Designer & Full-stack Developer |
-| **Stack** | React · PHP · MySQL · Figma |
-| **Status** | 🚧 In development |
-| **Highlights** | Figma-first UI · instant scoring · responsive from phone to desktop |
-
-### 🌱 GreenSense — Arduino Plant Monitor *(coming soon)*
-
-| | |
-|:--|:--|
-| **Role** | Hardware & Firmware |
-| **Stack** | Arduino · Python · MQTT |
-| **Status** | 📝 Planning |
-| **Highlights** | Soil moisture sensors that nudge you before your plant gives up |
-
-> 💡 More projects are brewing — check my [repositories](https://github.com/charless-devs?tab=repositories).
+<table align="center">
+  <tr>
+    <td align="center"><strong>🎨 Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>⚙️ Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🗄️ Databases &amp; Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Pinned Repositories
 
+### 🗂️ DIDAS
+
+> Document & data management system built for robust, everyday academic workflows.
+
+`React` `Node.js` `Express` `MySQL`
+
+### 🧠 QuizNova
+
+> Interactive quiz platform with instant scoring, clean UI, and responsive design from phone to desktop.
+
+`React` `PHP` `MySQL` `Figma`
+
+### 🚪 CoreAdmin-Portal
+
+> Admin portal with authentication, role-based dashboards, and centralized system management.
+
+`Next.js` `TypeScript` `Tailwind CSS` `SQLite`
+
+<sub>Explore more on my [repositories page](https://github.com/charless-devs?tab=repositories).</sub>
+
+---
+
+## 📊 Contributions & Recent Activity
+
+<!-- Contribution metrics -->
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=charless-devs&show_icons=true&theme=transparent&hide_border=true&title_color=10b981&icon_color=10b981&text_color=0f172a&ring_color=10b981" alt="GitHub stats"/>
-  <img height="185" src="https://streak-stats.demolab.com?user=charless-devs&theme=transparent&hide_border=true&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=10b981&sideLabels=64748b&dates=64748b&ring_border=10b981" alt="GitHub streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charless-devs&layout=compact&theme=transparent&hide_border=true&title_color=10b981&text_color=0f172a" alt="Top languages"/>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=charless-devs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charless-devs&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
 </div>
 
----
+<!-- Recent development activity (updates automatically) -->
+### 🕒 Recent Activity
 
-## 🐍 My Contribution Grid
+<!--START_SECTION:activity-->
+- 🚧 Recent activity will appear here once generated
+<!--END_SECTION:activity-->
+
+### 🐍 Contribution Grid
 
 <div align="center">
 
@@ -116,9 +118,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D1D5DB?style=flat-square&logo=gmail&logoColor=red&labelColor=0f172a)](mailto:charles.dev@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/charless-devs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/charless-devs)
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/charless-devs)
+[![Email](https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=161B22)](mailto:charles.dev@email.com)
 
 *Always learning · Always building · Always growing* 🌱
 
