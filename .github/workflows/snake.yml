@@ -1,0 +1,31 @@
+name: 🐍 Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # regenerate daily at 00:00 UTC
+  workflow_dispatch:       # allows manual "Run workflow"
+  push:
+    branches: [main]       # refresh whenever README changes
+
+permissions:
+  contents: write          # lets the workflow publish to gh-pages
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: 🐍 Generate the contribution graph
+        uses: Platane/snk/github-action@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#10b981
+            dist/snake-dark.svg?palette=github-dark&color_snake=#10b981
+
+      - name: 📦 Publish images to the gh-pages branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
