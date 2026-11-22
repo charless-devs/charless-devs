@@ -77,7 +77,7 @@ I'm a **full-stack web developer and IT student based in Iloilo, Philippines**, 
 
 > Student tracking and academic management system built with Python.
 
-`Python` `Flask` `MySQL`
+`Python` `pandas`
 
 <sub>Explore more on my [repositories page](https://github.com/charless-devs?tab=repositories).</sub>
 
