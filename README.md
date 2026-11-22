@@ -8,6 +8,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=charless-devs&style=flat-square&color=0ea5e9)
 ![Last commit](https://img.shields.io/github/last-commit/charless-devs?style=flat-square&color=1e293b)
 
+<img src="assets/bot-blue.svg" width="72" alt="running bot"/> <img src="assets/bot-green.svg" width="56" alt="running bot"/> <img src="assets/bot-blue.svg" width="44" alt="running bot"/>
+
 </div>
 
 ---
@@ -20,6 +22,8 @@ I'm a **full-stack web developer and IT student**, focused on building **interac
 - 🌐 Full-stack: modern **React** front-ends backed by **Node.js, Flask, and PHP** services
 - 🕹️ Passionate about **3D and interactive web experiences** that feel alive in the browser
 - 🌱 Always learning, always building
+
+<div align="right"><img src="assets/bot-green.svg" width="60" alt="running bot"/></div>
 
 ---
 
@@ -80,6 +84,8 @@ I'm a **full-stack web developer and IT student**, focused on building **interac
 
 <sub>Explore more on my [repositories page](https://github.com/charless-devs?tab=repositories).</sub>
 
+<img src="assets/bot-blue.svg" width="60" alt="running bot"/> <img src="assets/bot-green.svg" width="48" alt="running bot"/>
+
 ---
 
 ## 📊 Contributions & Recent Activity
@@ -116,6 +122,8 @@ I'm a **full-stack web developer and IT student**, focused on building **interac
 ## 📫 Let's Connect
 
 <div align="center">
+
+<img src="assets/bot-green.svg" width="64" alt="running bot"/> <img src="assets/bot-blue.svg" width="52" alt="running bot"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/charless-devs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/charless-devs)
