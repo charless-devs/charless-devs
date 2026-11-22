@@ -73,11 +73,11 @@ I'm a **full-stack web developer and IT student based in Iloilo, Philippines**, 
 
 `React` `PHP` `MySQL` `Figma`
 
-### 🚪 CoreAdmin-Portal
+### 📚 EduTrack
 
-> Admin portal with authentication, role-based dashboards, and centralized system management.
+> Student tracking and academic management system built with Python.
 
-`Next.js` `TypeScript` `Tailwind CSS` `SQLite`
+`Python` `Flask` `MySQL`
 
 <sub>Explore more on my [repositories page](https://github.com/charless-devs?tab=repositories).</sub>
 
