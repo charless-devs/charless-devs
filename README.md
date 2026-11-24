@@ -20,6 +20,7 @@ I'm a **full-stack web developer and IT student**, focused on building **interac
 - 🌐 Full-stack: modern **React** front-ends backed by **Node.js, Flask, and PHP** services
 - 🕹️ Passionate about **3D and interactive web experiences** that feel alive in the browser
 - 🌱 Always learning, always building
+- 🚀 Open to collaboration on web, data, and interactive 3D projects
 
 ---
 
