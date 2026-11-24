@@ -22,6 +22,9 @@ I'm a **full-stack web developer and IT student**, focused on building **interac
 - 🌱 Always learning, always building
 - 🚀 Open to collaboration on web, data, and interactive 3D projects
 
+**Current focus:** building reliable full-stack features and strengthening
+React, Python, and database design fundamentals.
+
 ---
 
 ## 🛠️ Tech Stack & Tools
