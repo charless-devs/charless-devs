@@ -103,6 +103,9 @@ I'm a **full-stack web developer and IT student**, focused on building **interac
 <!-- Recent development activity (updates automatically) -->
 ### 🕒 Recent Activity
 
+I'm actively building full-stack and interactive projects, with a focus on clean,
+responsive interfaces and practical backend systems.
+
 <!--START_SECTION:activity-->
 - 🚧 Recent activity will appear here once generated
 <!--END_SECTION:activity-->
