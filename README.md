@@ -131,6 +131,6 @@ responsive interfaces and practical backend systems.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/charless-devs)
 [![Email](https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=161B22)](mailto:charles.dev@email.com)
 
-*Always learning · Always building · Always growing* 🌱
+*Always learning · Always building · Always growing · Open to opportunities* 🌱
 
 </div>
