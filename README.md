@@ -10,6 +10,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="combined_walk.gif" width="480" alt="Pixel-art character walk animation, seamlessly crossfaded between two clips"/>
+
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
